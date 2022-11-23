@@ -11,3 +11,4 @@ state = True
 
 while state:
     pygame.display.update()
+
